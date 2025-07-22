@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 3rd-year AI student at the National University of Uzbekistan (O'zMU)
+- 🎓 I'm a 4rd-year AI student at the National University of Uzbekistan (O'zMU)
 - 🔬 I specialize in **Data Science**, **Data Analytics**, and **Machine Learning**
 - 💡 I enjoy solving real-world problems using Python, ML models, and statistical analysis
 - 🧠 Interested in **NLP**, **Computer Vision**, and **Deep Learning**
