@@ -1,30 +1,30 @@
 <h1 align="center">Hi there, I'm Behruz Maxmudov 👋</h1>
 
 <p align="center">
-  <strong>Data Scientist | Data Analyst | Machine Learning Engineer</strong><br/>
-  Passionate about transforming data into actionable insights and intelligent solutions.
+  <strong>Python Backend Developer | Java Backend Learner | AI Enthusiast</strong><br/>
+  Passionate about building scalable, secure, and efficient backend systems with clean architecture.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 4rd-year AI student at the National University of Uzbekistan (O'zMU)
-- 🔬 I specialize in **Data Science**, **Data Analytics**, and **Machine Learning**
-- 💡 I enjoy solving real-world problems using Python, ML models, and statistical analysis
-- 🧠 Interested in **NLP**, **Computer Vision**, and **Deep Learning**
-- 📊 Experienced with **data visualization**, **EDA**, and **model evaluation**
-- 📈 Currently learning **Time Series Forecasting**, **MLOps**, and **LLMs**
+- 🎓 I'm a 4th-year AI student at the National University of Uzbekistan (O'zMU)
+- 💻 Specializing in **Python Backend Development** with a strong foundation in **OOP** and **REST APIs**
+- 🚀 Building robust server-side applications using **FastAPI**, **Django**, and **Flask**
+- 🧠 Interested in **MLOps**, **LLMs integration**, and **AI-powered backend services**
+- 💾 Experienced with **databases**, **authentication**, and **deployment**
+- 📈 Currently diving deeper into **Clean Architecture**, **Testing**, and **Docker**
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 📌 **Languages**: Python, SQL, Java, C++, R
-- 📌 **Libraries/Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenCV
-- 📌 **DataViz Tools**: Power BI, Tableau, matplotlib, seaborn
-- 📌 **Databases**: PostgreSQL, MySQL, SQLite
-- 📌 **Tools & Platforms**: Jupyter Notebook, Google Colab, Git, GitHub, VS Code
+- 📌 **Languages**: Python, Java, SQL, JavaScript, C++
+- 📌 **Frameworks**: FastAPI, Django, Flask, Spring Boot
+- 📌 **Tools**: Git, GitHub, VS Code, Postman, Docker, Linux
+- 📌 **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
+- 📌 **Other Skills**: REST APIs, JWT Auth, ORM (SQLAlchemy, Django ORM), OOP, MVC, Unit Testing
 
 ---
 
@@ -32,12 +32,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧠 **ML Classifier App** | Built a web app to classify different datasets using ML algorithms | `Python`, `scikit-learn`, `Streamlit` |
-| 📊 **COVID Data Analytics** | Data cleaning, visualization and trend analysis of COVID-19 data | `Python`, `Pandas`, `Seaborn` |
-| 🤖 **NLP Sentiment Analyzer** | Text-based sentiment analysis with ML and NLP preprocessing | `Python`, `NLTK`, `scikit-learn` |
-| 🔍 **Customer Churn Prediction** | Predicted customer churn using classification models and analytics | `Logistic Regression`, `Pandas`, `Sklearn` |
+| 🔐 **Auth API System** | Backend authentication system with JWT and role-based access | `FastAPI`, `PostgreSQL`, `JWT`, `Pydantic` |
+| 🛒 **E-commerce Backend** | Product, user, order, and payment management APIs | `Django`, `DRF`, `SQLite`, `Swagger` |
+| 📚 **Course Management API** | CRUD operations for students, courses, and instructors | `Flask`, `SQLAlchemy`, `Postman` |
+| 📦 **Microservice Template** | Microservice boilerplate with FastAPI and Docker | `FastAPI`, `Docker`, `Uvicorn`, `Redis` |
 
-> You can explore my projects in the [Repositories](https://github.com/BehruzMaxmudov1203?tab=repositories) section.
+> 🔍 You can explore my backend repositories here: [GitHub Repos](https://github.com/BehruzMaxmudov1203?tab=repositories)
 
 ---
 
@@ -45,7 +45,7 @@
 
 - 📧 Email: behruzmaxmudov263@gmail.com  
 - 📱 Telegram: [@Behruz_java](https://t.me/Behruz_java)  
-- 🔗 LinkedIn: *(Add your LinkedIn if you have one)*
+- 🔗 LinkedIn: *(Add your LinkedIn here if available)*
 
 ---
 
@@ -58,13 +58,15 @@
 
 ---
 
-### 🚀 Goals for 2025
+### 🎯 2025 Goals
 
-- ✅ Build end-to-end ML and AI projects
-- ✅ Contribute to open-source AI/Data projects
-- ✅ Learn MLOps and LLM fine-tuning
-- ✅ Publish AI research or blogs
+- ✅ Build scalable backend APIs with full testing and documentation
+- ✅ Learn and implement **Docker**, **CI/CD**, and **Async** backend logic
+- ✅ Deploy at least 5 backend services to production (Render, Railway, or Docker)
+- ✅ Contribute to open-source backend/API-related projects
+- ✅ Master Python design patterns and best practices
 
 ---
 
-Thanks for visiting my profile! ⭐
+Thanks for visiting my profile! ⭐  
+Feel free to reach out or collaborate!
