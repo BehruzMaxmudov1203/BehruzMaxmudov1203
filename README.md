@@ -71,7 +71,7 @@
 ### 📫 Contact Me
 
 - 📧 **Email:** [behruzmaxmudov263@gmail.com](mailto:behruzmaxmudov263@gmail.com)  
-- 💬 **Telegram:** [@Behruz_java](https://t.me/Behruz_java)  
+- 💬 **Telegram:** [@Behruz_java](https://t.me/Behruz_Maxmudov)  
 - 🐙 **GitHub:** [github.com/BehruzMaxmudov1203](https://github.com/BehruzMaxmudov1203)  
 - 📍 **Location:** Uzbekistan  
 
