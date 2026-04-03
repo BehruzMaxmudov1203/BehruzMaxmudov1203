@@ -18,7 +18,7 @@
 - 🎓 I'm a **4th-year Artificial Intelligence student** at the National University of Uzbekistan (O'zMU)  
 - 🤖 Specializing in **Natural Language Processing (NLP)** and **Computer Vision (CV)**  
 - 💬 Experienced in **speech recognition, text processing**, and **image/video analysis**  
-- 💡 I also create **Telegram bots** using the `Aiogram` framework  
+- 💡 I also develop **Telegram bots** using the `Aiogram` framework  
 - 🧠 Exploring **Deep Learning architectures** such as CNNs, RNNs, and Transformers  
 - 🚀 Interested in **MLOps**, **LLMs**, and **AI-powered automation**
 
