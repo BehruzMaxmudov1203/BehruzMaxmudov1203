@@ -7,14 +7,6 @@
 
 ---
 
-## 🚀 Project Showcase
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5e41be88-2b35-49a6-a4c1-5af7d0b2e55d" alt="Autotest Mobile App UI" width="100%"/>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 4th-year Artificial Intelligence student at National University of Uzbekistan  
@@ -48,6 +40,10 @@ Flutter (Android & iOS)
 ## 🚀 Featured Projects
 
 ### 🤖 AI Driving Test Coach (Autotest System)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e41be88-2b35-49a6-a4c1-5af7d0b2e55d" width="100%"/>
+</p>
 
 - Built an AI-powered mobile application for driving test preparation  
 - Trained custom Machine Learning models to analyze user behavior and generate adaptive learning recommendations  
