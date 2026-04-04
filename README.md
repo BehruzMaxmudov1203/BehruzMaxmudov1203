@@ -1,92 +1,109 @@
-<h1 align="center">🤖 Behruz Maxmudov</h1>
+# 🤖 Behruz Maxmudov
 
-<p align="center">
-  <strong>AI Engineer | Machine Learning & Deep Learning | NLP | Computer Vision | Python Backend Developer</strong><br/>
-  Building end-to-end AI systems with custom-trained models and scalable architectures.
-</p>
+**AI Engineer | Machine Learning | Deep Learning | NLP | Computer Vision | Python Backend Developer**
+Building intelligent, scalable, and production-ready AI systems.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 4th-year Artificial Intelligence student at National University of Uzbekistan  
-- 🤖 Specialized in Machine Learning, Deep Learning, NLP, and Computer Vision  
-- 🧠 Experienced in building full AI systems (model → backend → mobile app)  
-- ⚙️ Trained custom Machine Learning models for real-world applications  
-- 📱 Developed cross-platform mobile apps using Flutter + FastAPI backend  
-- 🚀 Interested in MLOps, LLMs, and production-ready AI systems  
+* 🎓 Final-year Artificial Intelligence student at National University of Uzbekistan
+* 🤖 Focused on Machine Learning, Deep Learning, NLP, and Computer Vision
+* 🧠 Experienced in building end-to-end AI systems (ML model → backend → mobile app)
+* ⚙️ Build and deploy custom Machine Learning models for real-world applications
+* 📱 Develop cross-platform mobile applications using Flutter + FastAPI
+* 🚀 Interested in scalable AI systems, MLOps, and LLM-based solutions
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🐍 Languages
-Python • Java • C++ • SQL  
+
+* Python
+* Java
+* C++
+* SQL
 
 ### 🧠 AI / Machine Learning
-TensorFlow • PyTorch • Scikit-learn  
+
+* TensorFlow
+* PyTorch
+* Scikit-learn
 
 ### 📊 Data & Libraries
-Pandas • NumPy • OpenCV • HuggingFace • spaCy • NLTK  
+
+* Pandas
+* NumPy
+* OpenCV
+* HuggingFace
+* spaCy
+* NLTK
 
 ### 🧰 Backend & Tools
-FastAPI • PostgreSQL • MongoDB • Docker • Git • Jupyter • VS Code  
+
+* FastAPI
+* PostgreSQL
+* MongoDB
+* Docker
+* Git
+* Jupyter
+* VS Code
 
 ### 📱 Mobile
-Flutter (Android & iOS)  
+
+* Flutter (Android & iOS)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 AI Driving Test Coach (Autotest System)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5e41be88-2b35-49a6-a4c1-5af7d0b2e55d" width="100%"/>
-</p>
+![Autotest App UI](https://github.com/user-attachments/assets/5e41be88-2b35-49a6-a4c1-5af7d0b2e55d)
 
-- Built an AI-powered mobile application for driving test preparation  
-- Trained custom Machine Learning models to analyze user behavior and generate adaptive learning recommendations  
-- Implemented real-time practice sessions, exam simulations, and readiness prediction system  
-- Developed cross-platform mobile app using Flutter (Android & iOS)  
-- Designed scalable backend architecture using FastAPI  
-- Integrated gamification features (XP, streaks, coins) to improve user engagement  
+* Developed an AI-powered mobile learning system for driving test preparation
+* Designed and trained Machine Learning models to analyze user performance and adapt learning content
+* Built a recommendation system based on user behavior and weak topic detection
+* Implemented real-time practice sessions and exam simulation system
+* Developed ML-based readiness scoring to estimate exam success probability
+* Built cross-platform mobile app using Flutter
+* Designed scalable backend using FastAPI
+* Integrated gamification (XP, streaks, rewards)
 
 ---
 
 ### 🖼️ Face Recognition System
 
-- Developed a real-time face detection and recognition system using deep learning  
-- Built with OpenCV and TensorFlow  
-- Optimized for real-time performance  
+* Built a real-time face detection and recognition system
+* Implemented using OpenCV and TensorFlow
+* Optimized for real-time performance
 
 ---
 
 ### 💬 NLP Telegram Chatbot
 
-- Built an intelligent chatbot using NLP techniques  
-- Implemented using Python, Aiogram, and Transformer-based models  
-- Supports contextual understanding and smart responses  
+* Developed an intelligent chatbot using NLP
+* Built with Python, Aiogram, and Transformer models
+* Supports contextual understanding and dynamic responses
 
 ---
 
 ## 📫 Contact
 
-- 📧 behruzmaxmudov263@gmail.com  
-- 💬 Telegram: @Behruz_Maxmudov  
-- 🐙 GitHub: https://github.com/BehruzMaxmudov1203  
-- 📍 Uzbekistan  
+* Email: [behruzmaxmudov263@gmail.com](mailto:behruzmaxmudov263@gmail.com)
+* Telegram: @Behruz_Maxmudov
+* GitHub: https://github.com/BehruzMaxmudov1203
+* Location: Uzbekistan
 
 ---
 
 ## 🎯 Goals
 
-- Build production-level AI systems  
-- Master MLOps and scalable AI deployment  
-- Work on real-world AI products  
+* Build scalable and production-ready AI systems
+* Master MLOps and AI deployment
+* Work on real-world AI products
 
 ---
 
-<p align="center">
-  🚀 Open to opportunities in AI / Machine Learning / Backend Development
-</p>
+🚀 Open to AI / Machine Learning / Backend opportunities
