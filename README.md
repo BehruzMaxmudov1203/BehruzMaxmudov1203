@@ -1,7 +1,7 @@
  #                                                             🤖 Behruz Maxmudov
 
 <p align="center">
-  <b>AI Engineer | Machine Learning | Deep Learning | NLP | Computer Vision | Python Backend Developer</b><br/>
+  <b>AI Engineer | Computer Vision • NLP • Scalable AI Systems</b><br/>
   Building scalable, real-world AI systems with custom-trained models.
 </p>
 
