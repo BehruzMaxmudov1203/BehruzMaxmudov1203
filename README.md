@@ -23,7 +23,6 @@
 ### 🐍 Languages
 - Python  
 - Java  
-- C++  
 - SQL  
 
 ### 🧠 AI / Machine Learning
@@ -44,9 +43,7 @@
 - PostgreSQL  
 - MongoDB  
 - Docker  
-- Git  
-- Jupyter  
-- VS Code  
+- Git 
 
 ### 📱 Mobile
 - Flutter (Android & iOS)  
