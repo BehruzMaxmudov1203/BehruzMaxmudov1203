@@ -73,7 +73,8 @@
 ### 📚 Essential Vocabulary Bot
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-id" alt="Essential Vocabulary Bot" width="90%"/>
+ <img width="1448" height="1086" alt="2c7131c3-8df1-4f4f-95d2-ef77d92c001f" src="https://github.com/user-attachments/assets/5208c799-45da-4335-a9c1-eb0d5083af4e" />
+
 </p>
 
 A feature-rich Telegram bot designed to help learners improve their English vocabulary through interactive quizzes, daily challenges, mistake review, and progress tracking.
