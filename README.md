@@ -12,7 +12,7 @@
 - 🎓 Final-year Artificial Intelligence student at National University of Uzbekistan  
 - 🤖 Focused on Machine Learning, Deep Learning, NLP, and Computer Vision  
 - 🧠 Experienced in building end-to-end AI systems (ML model → backend → mobile app)  
-- ⚙️ Develop custom Machine Learning models for real-world applications  
+- ⚙️ Build end-to-end AI pipelines from model training to deployment
 - 📱 Build cross-platform mobile apps using Flutter + FastAPI  
 - 🚀 Interested in MLOps, LLMs, and production-ready AI systems  
 
