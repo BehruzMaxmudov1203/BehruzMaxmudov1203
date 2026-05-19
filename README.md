@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Engineer | Computer Vision • NLP • Scalable AI Systems</b><br/>
-  Building scalable, real-world AI systems with custom-trained models.
+  Building scalable AI systems and production-ready ML pipelines with Python.
 </p>
 
 ---
