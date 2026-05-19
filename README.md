@@ -70,6 +70,51 @@
 - Integrated gamification (XP, streaks, coins) to increase engagement  
 
 ---
+### 📚 Essential Vocabulary Bot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/your-image-id" alt="Essential Vocabulary Bot" width="90%"/>
+</p>
+
+A feature-rich Telegram bot designed to help learners improve their English vocabulary through interactive quizzes, daily challenges, mistake review, and progress tracking.
+
+#### 🚀 Key Features
+- 📚 Study vocabulary by books and units
+- ⚡ Quick Tests
+- 🔥 Daily Challenges
+- ❌ Mistake Review
+- 📈 Progress Tracking
+- 🏆 Leaderboard
+- 📎 Learning Resources
+- ⚙️ Admin Panel for managing content and settings
+
+#### 🛠️ Tech Stack
+- Python
+- Aiogram 3.x
+- SQLite
+- Google Gemini AI
+- Docker
+
+#### 🤖 Live Demo
+- Telegram Bot: https://t.me/essentialquiz_bot
+
+#### 🎯 Highlights
+- Persistent user progress and statistics
+- Multiple quiz modes (multiple choice, spelling, listening)
+- Daily challenges and gamification
+- Admin-managed resources and broadcasts
+- Docker-ready deployment
+- AI-powered features using Gemini
+
+#### 🧠 Skills Demonstrated
+- Telegram Bot Development
+- Backend Development
+- Database Design
+- AI Integration
+- Docker Deployment
+- Educational Technology (EdTech)
+---
+
 
 ### 🖼️ Face Recognition System
 
