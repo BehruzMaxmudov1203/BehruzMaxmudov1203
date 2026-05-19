@@ -133,7 +133,7 @@ A feature-rich Telegram bot designed to help learners improve their English voca
 ## 📫 Contact
 
 - 📧 Email: behruzmaxmudov263@gmail.com  
-- 💬 Telegram: @Behruz_Maxmudov  
+- 💬 Telegram: @Behruz_ml
 - 🐙 GitHub: https://github.com/BehruzMaxmudov1203  
 - 📍 Location: Uzbekistan  
 
