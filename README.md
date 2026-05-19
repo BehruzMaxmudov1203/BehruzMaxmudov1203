@@ -1,4 +1,4 @@
- #                                                             🤖 Behruz Maxmudov
+ #                                                                              🤖 Behruz Maxmudov
 
 <p align="center">
   <b>AI Engineer | Computer Vision • NLP • Scalable AI Systems</b><br/>
