@@ -1,134 +1,101 @@
-# 🤖 Behruz Maxmudov
 
-<p align="center">
-  <b>AI Engineer | Computer Vision • NLP • Scalable AI Systems</b><br/>
-  Building production-ready ML pipelines and end-to-end AI systems with Python.
-</p>
+# Behruz Maxmudov
 
-<p align="center">
-  🔍 <b>Open to work:</b> AI Engineer / ML Engineer / Backend Developer (Remote • Relocation)
-</p>
+### Machine Learning | Computer Vision | Deep Learning
+
+Artificial Intelligence graduate interested in developing reliable machine learning models, deep learning methods, and practical AI systems.
+
+[GitHub](https://github.com/BehruzMaxmudov1203) · [LinkedIn](https://www.linkedin.com/in/behruz-maxmudov/) · [Email](mailto:behruzmaxmudov263@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Final-year AI student at National University of Uzbekistan (graduating 2025/2026)
-- 🤖 Focused on Machine Learning, Deep Learning, NLP, and Computer Vision
-- ⚙️ Build end-to-end AI pipelines: model training → backend API → mobile app deployment
-- 📱 Cross-platform mobile apps with Flutter + FastAPI
-- 🚀 Passionate about MLOps, LLMs, and production-grade AI systems
+- B.Sc. in Artificial Intelligence, National University of Uzbekistan (2022–2026).
+- Graduated with a GPA of **4.42/5.00**.
+- Research interests: Machine Learning, Computer Vision, and Deep Learning.
+- Practical experience developing machine learning and data science projects.
+- Interested in research-oriented Master's studies and international research collaborations.
 
----
+## Research Interests
 
-## ⚙️ Tech Stack
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Neural Networks
+- Natural Language Processing
 
-### 🐍 Languages
-`Python` `Java` `SQL`
+## Education
 
-### 🧠 AI/ML Frameworks
-`TensorFlow` `PyTorch` `Scikit-learn`
+**National University of Uzbekistan**  
+Bachelor of Science in Artificial Intelligence  
+2022 – 2026
 
-### 📊 Data & Libraries
-`Pandas` `NumPy` `OpenCV` `HuggingFace` `spaCy` `NLTK`
+GPA: **4.42/5.00**
 
-### 🧰 Backend & Tools
-`FastAPI` `PostgreSQL` `MongoDB` `Docker` `Git` `Redis`
+Relevant coursework:
+- Machine Learning
+- Artificial Neural Networks
+- Computer Vision
+- Artificial Intelligence Systems
+- Data Analysis
+- Probability and Mathematical Statistics
+- Algorithms and Data Structures
 
-### 📱 Mobile
-`Flutter` (Android & iOS)
+## Technical Skills
 
----
+**Programming:** Python, Java, SQL
 
-## 🚀 Featured Projects
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch
 
-### 🤖 AI Driving Test Coach (Autotest System)
+**Data Science:** NumPy, Pandas, Matplotlib
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5e41be88-2b35-49a6-a4c1-5af7d0b2e55d" width="90%"/>
-</p>
+**Computer Vision:** OpenCV
 
-- AI-powered mobile app for driving exam preparation
-- ML models analyze user performance → personalized learning recommendations
-- Real-time practice sessions + exam simulations + readiness prediction
-- Cross-platform Flutter app + scalable FastAPI backend
-- Gamification: XP points, streaks, coins system
+**Backend & Databases:** FastAPI, Django, Flask, PostgreSQL, SQLite
 
-**🔗 GitHub:** *[repo link]* • **📱 Platform:** Android & iOS
+**Tools:** Git, GitHub, Docker
 
----
+## Selected Projects
 
-### 📚 Essential Vocabulary Bot
+### 1. Mushroom Classification — Machine Learning
+[Repository](https://github.com/BehruzMaxmudov1203/mushroom-classification-ml)
 
-<p align="center">
-  <img width="800" alt="bot demo" src="https://github.com/user-attachments/assets/5208c799-45da-4335-a9c1-eb0d5083af4e"/>
-</p>
+Classification project involving exploratory data analysis, model training, and evaluation.
 
-- Telegram bot for English vocabulary learning (5+ active features)
-- Quiz modes: multiple choice, spelling, listening
-- Daily challenges, mistake review, progress tracking, leaderboard
-- Google Gemini AI integration for smart content generation
-- Admin panel for content management and broadcasts
+### 2. Tashkent Real Estate Price Predictor
+[Repository](https://github.com/BehruzMaxmudov1203/Tashkent-Real-Estate-Price-Predictor)
 
-| Feature | Description |
-|---------|-------------|
-| 📚 Study | By books and units |
-| ⚡ Quick Tests | Timed vocabulary check |
-| 🔥 Daily Challenges | Streak-based motivation |
-| ❌ Mistake Review | Personalized weak points |
-| 🏆 Leaderboard | Competitive learning |
+Machine learning project focused on real estate price prediction using data analysis and regression methods.
 
-**🔗 GitHub:** *[repo link]* • **🤖 Live Demo:** [@essentialquiz_bot](https://t.me/essentialquiz_bot)
+### 3. PCA From Scratch
+[Repository](https://github.com/BehruzMaxmudov1203/pca-from-scratch)
 
-**Tech:** `Python` `Aiogram 3.x` `SQLite` `Gemini AI` `Docker`
+Implementation of Principal Component Analysis using Python and NumPy.
 
----
+### 4. KNN From Scratch
+[Repository](https://github.com/BehruzMaxmudov1203/knn-from-scratch)
 
-### 🖼️ Face Recognition System
+Implementation of the K-Nearest Neighbors algorithm, including distance metrics and classification.
 
-- Real-time face detection + recognition using OpenCV and TensorFlow
-- Optimized for low-latency inference (~30 FPS on CPU)
-- Use cases: attendance systems, access control
+## Certifications & Achievements
 
-**🔗 GitHub:** *[repo link]*
+- Supervised Machine Learning: Regression and Classification — DeepLearning.AI and Stanford Online.
+- IV International Internet Olympiad in Informatics — 3rd Place.
+- LeetCode 50 Days Badge (2026).
 
----
+## Languages
 
-### 💬 NLP Telegram Chatbot
-
-- Intelligent chatbot with contextual understanding
-- Built with `Python` `Aiogram` + Transformer-based model (DistilBERT fine-tuned)
-- Intent classification accuracy: 85% on custom dataset
-
-**🔗 GitHub:** *[repo link]*
+- Uzbek — Native
+- English — Currently improving
+- German — A1
 
 ---
 
-## 📫 Contact
+## Contact
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [behruzmaxmudov263@gmail.com](mailto:behruzmaxmudov263@gmail.com) |
-| 💬 Telegram | [@Behruz_ml](https://t.me/Behruz_ml) |
-| 🐙 GitHub | [github.com/BehruzMaxmudov1203](https://github.com/BehruzMaxmudov1203) |
-| 📍 Location | Tashkent, Uzbekistan |
+- Email: behruzmaxmudov263@gmail.com
+- LinkedIn: https://www.linkedin.com/in/behruz-maxmudov/
+- GitHub: https://github.com/BehruzMaxmudov1203
 
-> 🔗 *LinkedIn: [link qo'shing agar mavjud bo'lsa]*
-
----
-
-## 🎯 Current Goals
-
-- Build scalable, production-level AI systems
-- Master MLOps (MLflow, Kubeflow, CI/CD for ML)
-- Contribute to impactful real-world AI products
-
----
-
-<p align="center">
-  ⚡ <i>"From model to production — building AI that matters."</i>
-</p>
-
-<p align="center">
-  🚀 Open for AI / ML / Backend opportunities — feel free to reach out!
-</p>
+**Research interests:** Machine Learning, Computer Vision, and Deep Learning.
