@@ -92,7 +92,7 @@ Implementation of the K-Nearest Neighbors algorithm, including distance metrics 
 ## Languages
 
 - Uzbek — Native
-- English — Currently improving
+- English — IELTS preparation (Target: Band 6.0)
 - German — A1
 
 ---
