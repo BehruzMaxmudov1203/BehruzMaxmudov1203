@@ -80,9 +80,14 @@ Implementation of the K-Nearest Neighbors algorithm, including distance metrics 
 
 ## Certifications & Achievements
 
-- Supervised Machine Learning: Regression and Classification — DeepLearning.AI and Stanford Online.
-- IV International Internet Olympiad in Informatics — 3rd Place.
-- LeetCode 50 Days Badge (2026).
+- **Supervised Machine Learning: Regression and Classification**
+  - DeepLearning.AI & Stanford Online — Coursera
+  - Completed: November 21, 2026
+  - Grade: 100%
+
+- **3rd Place — IV Open International Internet Olympiad in Informatics**
+  - April 15–16, 2026 — Ashgabat, Turkmenistan
+  - Representing the National University of Uzbekistan
 
 ## Languages
 
